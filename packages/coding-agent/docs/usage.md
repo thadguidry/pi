@@ -96,7 +96,7 @@ The second line displays the session stats, context usage, costs, and model • 
 Example footer output:
 
 ```
-~\test\myproject (main) • session to ivestigate performance
+~\test\myproject (main) • session to investigate performance
 ↑160k ↓24k R3.1M CH99.9% $0.076 (sub) 24.3%/131k (auto)            muse-glimmer:latest • high
 ```
 
